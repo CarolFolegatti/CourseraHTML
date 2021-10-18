@@ -1,3 +1,7 @@
+h1{
+	text-align: center;
+}
+
 .row{
  	width: 100%;
  }
@@ -30,4 +34,17 @@
 		border: 1px solid green;
  		width: 100%;
 	}
+}
+
+#p1{
+	background-color:hotpink ;
+	float: right;
+}
+#p2 {
+	background-color: maroon;
+	float: right;
+}
+#p3{
+	background-color: lightyellow;
+	float: right;
 }
