@@ -1,0 +1,35 @@
+
+.row{
+ 	width: 100%;
+ }
+
+/********* Large Devices *********/
+
+ @media (min-width: 992px){
+ 	.col-lg{
+ 	float: left;
+ 	border: 1px solid green
+ 	width: 33%;
+ 	 }
+ }
+
+/********* Medium Devices *********/
+
+@media (min-width: 768px) and (max-width: 991px){
+	.col-md{
+		float: left;
+		border: 1px solid green
+ 		width: 50%;
+	}
+}
+
+/********* Small Devices *********/
+
+@media (max-width: 767px){
+	.col-sm{
+		float: left;
+		border: 1px solid green
+ 		width: 100%;
+	}
+}
+
