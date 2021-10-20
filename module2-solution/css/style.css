@@ -39,12 +39,24 @@ h1{
 #p1{
 	background-color:hotpink ;
 	float: right;
+	border: 5px black;
 }
+
 #p2 {
 	background-color: maroon;
 	float: right;
+	border: 5px black;
 }
+
 #p3{
 	background-color: lightyellow;
 	float: right;
+	border: 5px black;
 }
+
+#span{
+	background-color: grey;
+	border: 5px black;
+	margin: 30px;
+}
+
